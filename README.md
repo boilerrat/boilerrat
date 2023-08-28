@@ -11,7 +11,7 @@
 - Warcamp member @DAOhaus, Meta Cartel Member
 - DAO Contributor and Designer
 
-Dabble in Typescript, Javascript. Slowly picking up Solidity.
+- Dabble in Typescript, Javascript. Slowly picking up Solidity.
 <!---
 boilerrat/boilerrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
