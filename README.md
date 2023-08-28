@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on DAOs
 - 📫 How to reach me
-  - Discord: Boilerrat#8898
+  - Discord: boiler_chris
   - telegram: boilerrat
   - Twitter: boilerrat
 
