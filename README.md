@@ -1,3 +1,5 @@
+![chilieatingchili](https://github.com/boilerrat/boilerrat/assets/34731569/a490ef20-c9cb-47a9-a6d9-8cdba6a90fc7)
+
 # 👋 Hi, I'm [boiler](https://www.boierrat.xyz)!
 
 I'm deeply embedded in the world of DAOs, consistently contributing to a decentralized future. 🌐
@@ -32,7 +34,5 @@ I'm deeply embedded in the world of DAOs, consistently contributing to a decentr
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 
 ---
-
-![](https://github.com/boilerrat/boilerrat/assets/chili-pepper-banner.png)
 
 Enjoy navigating through my heatwave of contributions! 🔥
