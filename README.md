@@ -33,6 +33,6 @@ I'm deeply embedded in the world of DAOs, consistently contributing to a decentr
 
 ---
 
-![Chili Pepper Banner](https://github.com/boilerrat/boilerrat/assets/chili-pepper-banner.png)
+![](https://github.com/boilerrat/boilerrat/assets/chili-pepper-banner.png)
 
 Enjoy navigating through my heatwave of contributions! 🔥
