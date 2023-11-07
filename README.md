@@ -26,9 +26,6 @@ I'm deeply embedded in the world of DAOs, consistently contributing to a decentr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=boilerrat&show_icons=true&theme=radical)
 
-### Recent Projects
-- [Project Name](link) - A short description.
-- [Another Project](link) - What it's about.
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
