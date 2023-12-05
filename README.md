@@ -28,7 +28,7 @@ I'm deeply embedded in the world of DAOs, consistently contributing to a decentr
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=boilerrat&show_icons=true&theme=radical)
 - [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-- [![Repo Tresnds](https://api.githubtrends.io/user/svg/boilerrat/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
+- [Repo Trends](https://api.githubtrends.io/user/svg/boilerrat/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
