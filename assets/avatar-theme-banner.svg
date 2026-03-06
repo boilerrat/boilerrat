@@ -1,54 +1,51 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Boilerrat avatar-themed banner">
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="boilerrat cyberpunk banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#060b1a"/>
-      <stop offset="100%" stop-color="#0a1326"/>
+      <stop offset="0%" stop-color="#04030c"/>
+      <stop offset="55%" stop-color="#0a0f2a"/>
+      <stop offset="100%" stop-color="#140a2e"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#56f07e"/>
-      <stop offset="100%" stop-color="#2f95ff"/>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f7ff"/>
+      <stop offset="50%" stop-color="#4dff7a"/>
+      <stop offset="100%" stop-color="#ff2bd6"/>
     </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#56f07e" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#56f07e" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#2f95ff" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="22"/>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2a44" stroke-width="1" opacity="0.45"/>
+    </pattern>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
 
-  <!-- Ambient glows -->
-  <circle cx="1035" cy="62" r="130" fill="#56f07e" opacity="0.14" filter="url(#soft)"/>
-  <circle cx="170" cy="292" r="138" fill="#2f95ff" opacity="0.13" filter="url(#soft)"/>
+  <ellipse cx="1020" cy="70" rx="170" ry="95" fill="#00f7ff" opacity="0.12"/>
+  <ellipse cx="180" cy="285" rx="190" ry="90" fill="#ff2bd6" opacity="0.10"/>
 
-  <!-- Scanline texture -->
-  <rect x="0" y="0" width="1200" height="320" fill="url(#scan)" opacity="0.7"/>
+  <rect x="58" y="58" width="18" height="18" fill="#56f07e"/>
+  <rect x="78" y="58" width="18" height="18" fill="#56f07e"/>
+  <rect x="98" y="58" width="18" height="18" fill="#547a2f"/>
+  <rect x="118" y="58" width="18" height="18" fill="#2f95ff"/>
+  <rect x="138" y="58" width="18" height="18" fill="#e11d2e"/>
 
-  <!-- Pixel motifs inspired by avatar -->
-  <g opacity="0.94">
-    <rect x="58" y="58" width="18" height="18" fill="#56f07e"/>
-    <rect x="78" y="58" width="18" height="18" fill="#56f07e"/>
-    <rect x="98" y="58" width="18" height="18" fill="#547a2f"/>
-    <rect x="118" y="58" width="18" height="18" fill="#2f95ff"/>
-    <rect x="138" y="58" width="18" height="18" fill="#e11d2e"/>
-  </g>
+  <rect x="58" y="86" width="4" height="182" fill="url(#neon)" filter="url(#glow)"/>
 
-  <rect x="58" y="86" width="4" height="182" fill="url(#line)"/>
+  <text x="84" y="130" font-size="56" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#f7fbff" font-weight="700" filter="url(#glow)">boilerrat</text>
+  <text x="84" y="174" font-size="24" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#b8ccff">DAO ops • Automation • Market systems</text>
+  <text x="84" y="212" font-size="18" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#81ffd3">pixel-brained builder // process over noise</text>
 
-  <text x="84" y="132" font-size="56" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#f8fafc" font-weight="700">boilerrat</text>
-  <text x="84" y="176" font-size="24" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#d7e2f2">DAO ops • Automation • Market systems</text>
-  <text x="84" y="214" font-size="18" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif" fill="#8ca3c3">Pixel-brained builder. Process over noise.</text>
-
-  <!-- Decorative right-side node trail (replaces theme color box) -->
-  <g opacity="0.8">
-    <circle cx="925" cy="120" r="4" fill="#56f07e"/>
-    <circle cx="962" cy="136" r="4" fill="#2f95ff"/>
-    <circle cx="999" cy="152" r="4" fill="#56f07e"/>
-    <circle cx="1036" cy="168" r="4" fill="#2f95ff"/>
-    <circle cx="1073" cy="184" r="4" fill="#56f07e"/>
-    <path d="M925 120 L962 136 L999 152 L1036 168 L1073 184" stroke="#84a3cf" stroke-width="1.5" fill="none" opacity="0.45"/>
+  <g stroke="#00f7ff" stroke-width="1.3" opacity="0.75" filter="url(#glow)">
+    <path d="M900 104 L942 125 L984 146 L1026 167 L1068 188" fill="none"/>
+    <circle cx="900" cy="104" r="3" fill="#00f7ff"/>
+    <circle cx="942" cy="125" r="3" fill="#4dff7a"/>
+    <circle cx="984" cy="146" r="3" fill="#00f7ff"/>
+    <circle cx="1026" cy="167" r="3" fill="#ff2bd6"/>
+    <circle cx="1068" cy="188" r="3" fill="#4dff7a"/>
   </g>
 </svg>
