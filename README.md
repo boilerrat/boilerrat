@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./assets/avatar-theme-banner.svg" alt="boilerrat banner" width="100%" />
+<br/>
 <img src="https://github.com/boilerrat.png" width="140" alt="boilerrat avatar" />
 
 # Boiler (Chris)
 
-### Building DAO systems, market workflows, and automations with real-world guardrails.
+### Building DAO systems, market workflows, and automation with real-world guardrails.
 
 [![Website](https://img.shields.io/badge/Website-boierrat.xyz-0f172a?style=for-the-badge)](https://www.boierrat.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-@boilerrat-2563eb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boilerrat)
