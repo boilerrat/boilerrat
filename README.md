@@ -8,8 +8,9 @@
 
 ### Building DAO systems, market workflows, and automation with real-world guardrails.
 
-[![Website](https://img.shields.io/badge/Website-boierrat.xyz-0f172a?style=for-the-badge)](https://www.boierhaus.org)
+[![Website](https://img.shields.io/badge/Website-boilerhaus.org-0f172a?style=for-the-badge)](https://boilerhaus.org)
 [![Telegram](https://img.shields.io/badge/Telegram-@boilerrat-2563eb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boilerrat)
+[![Farcaster](https://img.shields.io/badge/Farcaster-@boiler-7c65c1?style=for-the-badge)](https://warpcast.com/boiler)
 [![GitHub followers](https://img.shields.io/github/followers/boilerrat?style=for-the-badge)](https://github.com/boilerrat)
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=boilerrat&show_icons=true&hide_border=true&theme=transparent" alt="boilerrat github stats"/>
