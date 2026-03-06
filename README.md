@@ -2,16 +2,16 @@
 
 <img src="./assets/avatar-theme-banner.svg" alt="boilerrat banner" width="100%" />
 <br/>
-<img src="https://github.com/boilerrat.png" width="140" alt="boilerrat avatar" />
+<img src="https://github.com/boilerrat.png" width="132" alt="boilerrat avatar" style="border-radius: 14px;" />
 
 # Boiler (Chris)
 
-### Building DAO systems, market workflows, and automation with real-world guardrails.
+### Automated everything except my bad decisions.
 
 [![Website](https://img.shields.io/badge/Website-boilerhaus.org-0f172a?style=for-the-badge)](https://boilerhaus.org)
 [![Telegram](https://img.shields.io/badge/Telegram-@boilerrat-2563eb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boilerrat)
 [![Farcaster](https://img.shields.io/badge/Farcaster-@boiler-7c65c1?style=for-the-badge)](https://warpcast.com/boiler)
-[![GitHub followers](https://img.shields.io/github/followers/boilerrat?style=for-the-badge)](https://github.com/boilerrat)
+[![Followers](https://img.shields.io/github/followers/boilerrat?style=for-the-badge)](https://github.com/boilerrat)
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=boilerrat&show_icons=true&hide_border=true&theme=transparent" alt="boilerrat github stats"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=boilerrat&hide_border=true&theme=transparent" alt="boilerrat streak stats"/>
@@ -20,38 +20,49 @@
 
 ---
 
-## What I’m focused on
+## `whoami`
 
-- **DAO research + governance operations**
-- **Crypto/trading systems** (risk-first, process over predictions)
-- **Automation pipelines** for publishing and reporting
-- **Coding tools** that reduce repetitive ops work
-
----
-
-## Featured work
-
-- **[awesome-decentralized-autonomous-organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)**  
-  Curated DAO knowledge base and ecosystem map.
-
-- **[OTRAK](https://github.com/boilermolt/otrak)**  
-  Overtime allocation tooling with contract-derived rule workflows.
-
-- **[DAO Digest](https://github.com/boilermolt/dao-digest)**  
-  Repeatable DAO intelligence pipeline with quality gates.
+```bash
+name="Boiler"
+focus=("DAO ops" "automation" "market systems")
+default_mode="build practical stuff with guardrails"
+anti_pattern="manual repetitive work"
+```
 
 ---
 
-## Operating principles
+## Current quests
 
-- Keep it practical.
-- Build for bad days, not demo days.
-- Prefer explicit rules over vibes.
-- Automate aggressively, with human veto on high-stakes actions.
+- ⚙️ **DAO intelligence pipelines** with editorial + validation gates
+- 🧠 **Agent memory systems** that keep long-horizon context stable
+- 📈 **Risk-first market workflows** (process > prediction)
+- 🛠️ **Ops automation** that stays debuggable under pressure
 
 ---
 
-## Tech I use
+## Featured repos
+
+| Project | What it does |
+|---|---|
+| [awesome-decentralized-autonomous-organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) | Curated map of DAO knowledge and ecosystem signals |
+| [OTRAK](https://github.com/boilermolt/otrak) | Contract-aware overtime allocation engine (facts → review → compiled rules) |
+| [DAO Digest](https://github.com/boilermolt/dao-digest) | Repeatable governance/news intelligence pipeline |
+| [OpenClaw Weekly](https://github.com/boilermolt/openclaw-weekly) | Weekly ecosystem monitoring and synthesis |
+
+---
+
+## Build doctrine
+
+> Build for **bad days**, not demo days.
+
+- Explicit rules beat vibes.
+- Logs are part of the product.
+- If a task repeats, automate it.
+- High-stakes actions keep a human veto.
+
+---
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -61,18 +72,8 @@
 
 ---
 
-## Recognize me online
-
-A few avatars I’ve used over time:
-
-- ![PNoun237_300x300](https://github.com/boilerrat/boilerrat/assets/34731569/bbde5914-a9ac-4a99-8803-b103fb416580)
-- ![jerrynotspinning_2_1_1667217078648_0](https://github.com/boilerrat/boilerrat/assets/34731569/46016c43-dadd-4d41-a0e6-7690690d2cdf)
-- ![pnoun111](https://github.com/boilerrat/boilerrat/assets/34731569/b0e49390-59bd-46dc-946d-664ab8153a35)
-
----
-
 <div align="center">
 
-If you’re building in DAOs or agentic workflows, say hi 👋
+**Signal over noise. Systems over slogans.**
 
 </div>
